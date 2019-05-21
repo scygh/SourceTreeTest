@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void feature_1(){
-
+        Log.d(TAG, "feature_1: MainActivity");
     }
 
     public void feature_2(){
