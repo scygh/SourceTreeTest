@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void feature_3(){
-
+        Log.d(TAG, "feature_3: ");
     }
 }
