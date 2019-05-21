@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
     public void feature_1(){
 
     }
+
+    public void feature_2(){
+
+    }
 }
